@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/akashde11339919" target="blank"><img src="https://img.shields.io/twitter/follow/akashde11339919?logo=twitter&style=for-the-badge" alt="akashde11339919" /></a> </p>
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **Software Dvelopment**
 
 - 📫 How to reach me **akashdeepg2001@gmail.com**
 
