@@ -9,9 +9,9 @@
   - Percentage: 82.6/100
 
 🔗 **Links**
-- [LinkedIn](https://www.linkedin.com/in/akashdeep-gupta-990353192/)
-- [GitHub](https://github.com/Akashdeepgupta)
-- [LeetCode](https://leetcode.com/Akashdeep_Gupta/)
+- [LinkedIn](https://www.linkedin.com/in/akashdeep-gupta-990353192/){:target="_blank"}
+- [GitHub](https://github.com/Akashdeepgupta){:target="_blank"}
+- [LeetCode](https://leetcode.com/Akashdeep_Gupta/){:target="_blank"}
 
 🔧 **Skills**
 <p align="left">
