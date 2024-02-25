@@ -35,6 +35,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
 </p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akashdeepgupta&langs_count=8&layout=donut)](https://github.com/Akashdeepgupta/)
+
 📚 **Other Skills**
 - Data Structure and Algorithm
 - DBMS (Database Management System)
