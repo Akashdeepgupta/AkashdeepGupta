@@ -44,6 +44,8 @@
 - LLD (Low-Level Design)
 
 🚀 **Experience**
+- **Flipkart (Via Thinkify labs) | SDE-Backend | May-2026 - Present**
+- **Capgemini | SDE-Backend |May-2024 - April-2026 t**
 - **Freelancing | Chegg-Managed Network Expert**
   - Mar 2020 - Jun 2020 | Mumbai, IN
   - Solved various questions on Computer Engineering
